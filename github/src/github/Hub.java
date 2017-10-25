@@ -7,6 +7,7 @@ public class Hub {
 			// TODO Auto-generated method stub
 			System.out.println("hehe");
 			System.out.println("hehe laufgh");
+			System.out.println("hehe lakjuufgh");
 		}
 	}
 
